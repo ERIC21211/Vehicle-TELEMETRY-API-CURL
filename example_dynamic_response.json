@@ -1,0 +1,11 @@
+{
+  "vehicleId": "abc123",
+  "timestamp": "2025-06-25T12:00:05Z",
+  "speed": "82.47",
+  "batteryLevel": 54,
+  "brakeEngaged": true,
+  "location": {
+    "lat": 37.7749,
+    "lng": -122.4194
+  }
+}
